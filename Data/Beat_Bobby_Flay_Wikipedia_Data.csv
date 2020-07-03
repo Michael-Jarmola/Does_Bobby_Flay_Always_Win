@@ -104,7 +104,7 @@ SeriesEpisodeNumber,Season,SeasonEpisodeNumber,Title,OriginalAirdate,Guests,Firs
 103,9,9,"""Who's Got This in the Bag""","August 11, 2016","Jet Tila, Debi Mazar",ground lamb,"Mark Gaier, Christopher Covelli","Ed Brown, Candice Kumai, Vikas Khanna",fish en papillote,Bobby Flay
 104,9,10,"""Age is Just a Number""","August 18, 2016","Sunny Anderson, Kimberly Schlapman",blue cheese,"Kevin Des Chenes, Jenny Dorsey","Cobi Levy, Anita Lo, Hugh Mangum",wonton soup,Jenny Dorsey
 105,9,11,"""Get in the Zone""","August 25, 2016","Alex Guarnaschelli, Kenny Mayne",Yukon gold potatoes,"Jeff Williams, Kevin Templeton","David Massoni, Lourdes Castro, Jason Debriere",chilaquiles,Bobby Flay
-106,9,12,"""Bobby's DMV Appointment""","September 1, 2016",Curtis Stone; Haylie Duff,guanciale,"Serge Pambo, Todd Gray","Michael Psilakis, Tracy Weiss, Hugh Mangum",soft-shell crab sandwich,Bobby Flay
+106,9,12,"""Bobby's DMV Appointment""","September 1, 2016","Curtis Stone, Haylie Duff",guanciale,"Serge Pambo, Todd Gray","Michael Psilakis, Tracy Weiss, Hugh Mangum",soft-shell crab sandwich,Bobby Flay
 107,9,13,"""Dark Horses Still Kick""","September 8, 2016","Geoffrey Zakarian, Debi Mazar",branzino,"Ed Hardy, Kunal Lamba","Hari Nayak, Dorothy Cann Hamilton, Hung Huynh",chicken bánh mì,Bobby Flay
 108,10,1,"""Comforts of Home""","September 22, 2016","Scott Conant, Bethenny Frankel",ground pork,"Jackie Rothong, Matteo Boffo","Frank Prisinzano, Jody Adams, Salvatore Coppola",cannelloni,Bobby Flay
 109,10,2,"""Shore Fire Strategy""","September 29, 2016","Anne Burrell, Mario Cantone",squab,"Geoff Johnson, Martin Rios","Ed Brown, Clodagh McKenna, Craig Samuel",lobster thermidor,Bobby Flay
@@ -131,7 +131,7 @@ SeriesEpisodeNumber,Season,SeasonEpisodeNumber,Title,OriginalAirdate,Guests,Firs
 130,11,10,"""Sweet but Sour""","March 9, 2017","Sunny Anderson, Katie Lee",white chocolate,"Kym Delost, Chris Teixeira","Michael Laiskonis, Nicole Friday, Niles Noren",apple dumpling,Bobby Flay
 131,11,11,"""Thrown from the Throne""","March 16, 2017","Amanda Freitag, Simon Majumdar",heirloom carrots,"Ian Bowden, Danielle Duran","Erik Ramirez, April Bloomfield, Joey Campanaro",veal piccata,Bobby Flay
 132,11,12,"""I Thought We Were Friends""","March 23, 2017","Giada De Laurentiis, Scott Conant",red snapper,"Vuong Loc, Ian Alvarez","Jason Wang, Robbie Shoults, Leah Cohen",chicken pho,Vuong Loc
-133,11,13,"""Both Sides of the Coin""","March 30, 2017","Alex Guarnaschelli, Anne Burrell,",quail eggs,"Jason Tom, Admir Alibasic","Michael Stillman, Brian Mazza, Harold Moore",sloppy joe,Bobby Flay
+133,11,13,"""Both Sides of the Coin""","March 30, 2017","Alex Guarnaschelli, Anne Burrell",quail eggs,"Jason Tom, Admir Alibasic","Michael Stillman, Brian Mazza, Harold Moore",sloppy joe,Bobby Flay
 134,12,1,"""Iron Chef Redemption""","April 12, 2017","Ted Allen, Debi Mazar",sun-dried tomatoes,"Todd Stein, Paul Virant","Susan Feniger, Billy Durnan, Alex Thermopoulos",brick chicken,Bobby Flay
 135,12,2,"""Mazel Tov""","April 19, 2017","Michael Symon, Susan Lucci",broccoli rabe,"Alex Reznik, Colin Smith","Lidia Bastianich, Noah Bernamoff, Olivia Culpo",matzo ball soup,Alex Reznik
 136,12,3,"""Challah at Your Boy!""","May 3, 2017","Anne Burrell, Jay Pharoah",challah bread,"Rene Rodriguez, Michael Kramer","Ivy Stark, Jeremy Jacobowirz, Lidia Bastianich",huevos rancheros,Rene Rodriguez
@@ -259,7 +259,7 @@ SeriesEpisodeNumber,Season,SeasonEpisodeNumber,Title,OriginalAirdate,Guests,Firs
 258,21,8,"""Break A Plate!""","August 15, 2019","Damaris Phillips, Rachael Ray",Rye Bread,"Adam Leonti, Anthony Scolaro","Frank Prisinzano, Georgette Farkas, Adam Greenberg",Vegetable Lasagna,Bobby Flay
 259,21,9,"""Funny or Fried""","August 22, 2019","Alton Brown, Amanda Freitag",Taleggio Cheese,"Gregory Wiener, Daphne Brogdon","Richie Notar, Sue Torres, Hugh Mangum",Cuban Sandwich,Bobby Flay
 260,22,1,"""A Proper Smackdown""","August 29, 2019","Valerie Bertinelli, Clinton Kelly",Asian Pears,"Ian Winslade, Geoff Rhyne","Michael Solomonov, Adrienne Cheatham, Alain Allegretti",Fisherman's Pie,Ian Winslade
-261,22,2,"""A Pioneering Ordeal""","September 5, 2019",Alex Guarnaschelli. Ree Drummond,Hanger Steak,"Jamarius Banks, Vince Giancarlo","Jean-Paul Bourgeois, Melba Wilson, Adrienne Cheatham",Shrimp and Grits,Bobby Flay
+261,22,2,"""A Pioneering Ordeal""","September 5, 2019","Alex Guarnaschelli, Ree Drummond",Hanger Steak,"Jamarius Banks, Vince Giancarlo","Jean-Paul Bourgeois, Melba Wilson, Adrienne Cheatham",Shrimp and Grits,Bobby Flay
 262,22,3,"""It's Gonna Be A Late Night""","September 12, 2019","Michael Symon, Seth Meyers",Duck Bacon,"Carrie Baird, Lamar Moore","Sara Moulton, Craig Samuel, Ariel Fox",Huevos Rancheros,Carrie Baird
 263,22,4,"""All In The Family""","September 19, 2019","Carla Hall, Jesse Tyler Ferguson",Horseradish,"Michael Bertozzi, Mika Leon","Louie Estrada, Lourdes Castro, Chris Cheung",Picadillo,Bobby Flay
 264,22,5,"""It's Gonna Be Jarring""","September 26, 2019","Anne Burrell, Carson Kressley",Anchovy,"Kevin Sweeney, Nicco Muratore","Albert Di Meglio, Lauren Scala, Lisle Richards",Agnolotti,Bobby Flay
